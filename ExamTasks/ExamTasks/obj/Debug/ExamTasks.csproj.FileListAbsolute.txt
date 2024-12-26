@@ -1,0 +1,12 @@
+C:\Users\games\Documents\ExamTasks\ExamTasks\bin\Debug\ExamTasks.exe.config
+C:\Users\games\Documents\ExamTasks\ExamTasks\bin\Debug\ExamTasks.exe
+C:\Users\games\Documents\ExamTasks\ExamTasks\bin\Debug\ExamTasks.pdb
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.csproj.AssemblyReference.cache
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.Form1.resources
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.Properties.Resources.resources
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.csproj.GenerateResource.cache
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.csproj.CoreCompileInputs.cache
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.exe
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.pdb
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.Form2.resources
+C:\Users\games\Documents\ExamTasks\ExamTasks\obj\Debug\ExamTasks.Form3.resources
